@@ -10,6 +10,14 @@
 
 /* 10 e 11. Variáveis */
 :root {
+    --borda-suave: 8px;
+    --borda-arrendondada: 50px;
+    --espaco-p: 8px;
+    --espaco-m: 16px;
+    --espaco-g: 32px;
+    --cor-superficie: #222222;
+    --cor-texto-base: #e0e0e0;
+    --cor-fundo-base: #1a1a1a; 
     --cor-sangue: #8b0000;
     --cor-zumbi: #2e8b57;
 }
